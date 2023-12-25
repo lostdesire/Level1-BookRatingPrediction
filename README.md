@@ -34,30 +34,39 @@
 - [Result](#tada-result)
 
 ## :trident: Project
+
 1. ### EDA
+  - 
 
 2. ### Preprocessing
+  - 
 
 3. ### Model
+  - CatBoost
+  - LightGBM
+  - CNN_FM
 
 4. ### Hyperparameter Tuning
+  - 
 
 5. ### Ensemble
-
+  - 최종 Ensemble
+    - CatBoost_v1 : CatBoost_v2 : CatBoost_v3 : CatBoost_v4 : CNN_FM = 2 : 2 : 2 : 2 : 2
 ## :mortar_board: Project Architecture
-![5EFCC5CE-63CD-4D46-9104-F11F431CAEF9_1_201_a](https://github.com/lostdesire/Level1-BookRatingPrediction/assets/64073392/ba413a3b-922e-4eb9-849b-e63dd4aadbcd)
-
+![Project Architecture](https://github.com/lostdesire/Level1-BookRatingPrediction/assets/64073392/ba413a3b-922e-4eb9-849b-e63dd4aadbcd)
 
 ## :floppy_disk: Environment Requirements
 [requirements.txt](https://github.com/boostcampaitech6/level1-bookratingprediction-recsys-05/blob/main/requirements.txt)
 
 ## :tada: Result
+![score](https://github.com/lostdesire/Level1-BookRatingPrediction/assets/64073392/2cc6c7e2-a2f4-48a1-89bd-c6139c74c859)
+
 <img width="1091" alt="Pasted image 20231222200217" src="https://github.com/lostdesire/Level1-BookRatingPrediction/assets/64073392/4c535cd9-5453-42d4-9c4c-82d7a4db67ae">
 <img width="1092" alt="Pasted image 20231222200241" src="https://github.com/lostdesire/Level1-BookRatingPrediction/assets/64073392/0af88b59-3218-438d-812b-9a2f634da755">
 
-| 리더보드 | RMSE   | 순위 |
-| -------- | ------ | ---- |
-| public   | 2.1285 | 3등  |
-| prviate  | 2.1223 | 3등  |
+| 리더보드 |  RMSE  | 순위 |
+| ------ | ------ | --- |
+| public | 2.1285 | 3등 |
+| prviate| 2.1223 | 3등 |
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Thanks%20for%20Reading&fontSize=40&fontColor=FFFFFF&fontAlignY=70) 
