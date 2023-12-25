@@ -23,15 +23,15 @@
 | EDA <br> category 전처리 <br> CatBoost 모델 설계 & 튜닝 |           | EDA <br> book language 전처리 <br> CNN_FM 하이퍼파라미터 튜닝 | EDA <br> User data 전처리 <br> 모델 일반화 작업 | EDA <br> LightGbm 모델 설계 & 튜닝 |
 
 ## :pushpin: TOC
-### [Project](#project)
-- [1. EDA](#eda)
-- [2. Preprocessing](#preprocessing)
-- [3. Model](#model)
-- [4. Hyperparameter Tuning](#hyperparameter-tuning)
-- [5. Ensemble](#ensemble)
-### [Project Architecture](#project-architecture)
-### [Environment Requirements](#environment-requirements)
-### [Result](#result)
+- [Project](#trident-project)
+  - [1. EDA](#eda)
+  - [2. Preprocessing](#preprocessing)
+  - [3. Model](#model)
+  - [4. Hyperparameter Tuning](#hyperparameter-tuning)
+  - [5. Ensemble](#ensemble)
+- [Project Architecture](#mortar_board-project-architecture)
+- [Environment Requirements](#floppy_disk-environment-requirements)
+- [Result](#tada-result)
 
 ## :trident: Project
 1. ### EDA
