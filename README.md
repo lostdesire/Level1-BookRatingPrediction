@@ -63,7 +63,7 @@
 ![Project Architecture](https://github.com/lostdesire/Level1-BookRatingPrediction/assets/64073392/ba413a3b-922e-4eb9-849b-e63dd4aadbcd)
 
 ## :floppy_disk: Environment Requirements
-[requirements.txt](https://github.com/boostcampaitech6/level1-bookratingprediction-recsys-05/blob/main/requirements.txt)
+[requirements.txt](https://github.com/lostdesire/Level1-BookRatingPrediction/blob/main/requirements.txt)
 
 ## :tada: Result
 ![score](https://github.com/lostdesire/Level1-BookRatingPrediction/assets/64073392/2cc6c7e2-a2f4-48a1-89bd-c6139c74c859)
